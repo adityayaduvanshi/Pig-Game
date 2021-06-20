@@ -2,5 +2,5 @@
 Using Vanilla Javascript
 
 
-<h1>Page Link </h1>
+<h2>Page Link </h2>
 https://adityayaduvanshi.github.io/Pig-Game/
